@@ -17,7 +17,3 @@ Für akademische Leser ist der vollständige Text der Arbeit im Ordner `/docs` e
 - `docs/Bachelorarbeit_Akhmetov_Vladislav.pdf` — Vollständiger Thesis-Text  
 - `.gitignore`, `LICENSE` — Standard-Repo-Hygiene  
 
-### Nutzung
-```bash
-pip install jupyter pandas numpy matplotlib scipy
-jupyter notebook notebooks/Modell.ipynb
